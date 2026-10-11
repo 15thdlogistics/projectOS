@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /journal/
+Allow: /fly/
+​Disallow administrative or restricted paths
+​Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /temp/
+​Sitemap directive to guide search engine crawlers directly to your sitemap index
+​Sitemap: https://15dwings.com.ng/sitemap.xml
