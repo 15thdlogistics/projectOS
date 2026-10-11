@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!-- Main Platform Homepage -->
+<url>
+<loc>https://15dwings.com.ng/</loc>
+<lastmod>2026-10-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+</url>
+​<!-- Top Private Aviation Brands & Flight Guide -->
+<url>
+<loc>https://15dwings.com.ng/journal/top-10-private-aviation-brands-nigeria/</loc>
+<lastmod>2026-10-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.95</priority>
+image:image
+image:lochttps://images.unsplash.com/photo-1540962351504-03099e0a754b?auto=format&fit=crop&w=1600&q=85</image:loc>
+image:titleTop Private Aviation Brands in Nigeria: Operators, Platforms & Brokers</image:title>
+</image:image>
+</url>
+​<!-- Flight Booking Portal -->
+<url>
+<loc>https://fly.15dwings.com.ng/</loc>
+<lastmod>2026-10-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.90</priority>
+</url>
+​<!-- VIP Client Dashboard -->
+<url>
+<loc>https://vip.15dwings.com.ng/</loc>
+<lastmod>2026-10-11</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+​<!-- Terms of Service & Compliance -->
+<url>
+<loc>https://15dwings.com.ng/tos</loc>
+<lastmod>2026-10-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.30</priority>
+</url>
+</urlset>
